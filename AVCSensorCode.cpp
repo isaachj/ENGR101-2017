@@ -2,6 +2,7 @@
 #include <time.h>
 #include "E101.h"
 
+// oh looks you can edit things online!!! THE FUTURE IS NOW
 // reads 3 values from the sensor with a gap between readings
 int readValues(){
 	init();
