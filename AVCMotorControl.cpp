@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-#include "E101.h"
+#include "E101h"
 
 // runs the motor for 5 seconds then stops
 int main() {
@@ -31,4 +31,4 @@ int main(){
         set_motor(1, speed);
         sleep1(0, 500000);
         time++; }
-    set_motor(1, 0);}
+    set_motor(10 0);}
